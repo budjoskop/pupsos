@@ -11,23 +11,23 @@ categories: blog
 Posle malo razvlačenja u šatoru spremam se za jezero. Pakujem sve potrepštine i dragocenosti i sendvič sa njeguškom pršutom koji sam uzeo veče ranije da ne bi razmišljao o doručku. Krećem lagano u šetnju još uvek se otkravljujući. Ceo umor mi je u prednjem delu lobanje. 
 
 
-![pre](/assets/tent.jpeg){:class="img-centered"}
+![pre](/pupsos/assets/tent.jpeg){:class="img-centered"}
 
 Oko mene je prava prašuma, obimi stabala su van svih proseka mog dosadašnjeg iskustva. Iskonska energija celog mesta je za strahopoštovanje. Staza je uređena i čista i svuda su table sa informacijama o flori, fauni i Biogradskoj gori uopšte. Staza je duga 3.5km.
 
-![pre](/assets/animals.jpeg){:class="img-centered"}
-![pre](/assets/brokenTree.jpeg){:class="img-centered"}
+![pre](/pupsos/assets/animals.jpeg){:class="img-centered"}
+![pre](/pupsos/assets/brokenTree.jpeg){:class="img-centered"}
 
 Na prvom mestu table sa slike saznajem da na gori ima medveda. Mislim na Gilberta i nadam se da je uspeo i da siđe dok je još bilo dnevnog svetla.
 
-![pre](/assets/stoneBear.jpeg){:class="img-centered"}
+![pre](/pupsos/assets/stoneBear.jpeg){:class="img-centered"}
 
 Nailazim na savršeno mesto pri kraju prvog kilometra. Klupica sa stočićem i do sada najbolji prilaz jezeru (ispostaviće se i uopšte). Doručkujem sendvič koji nimalo nije omelo noćenje u šatoru. Dižem noge na sto i počinjem da čitam. Roman koji sam dobio od Bauna za rođendan "Agonija i Ekstaza" Irving Stouna me nalazi u savršenom trenutku, kao što se već dešavalo. Čitajući o Mikelanđelu počinjem da se osećam kao plemić iz ruskih romana. Oni su uvek imali slobodnog vremena za umetnost, prirodu i filozofiju. Ipak biram Moglija.
 
 Postavljam hemok i rešavam da uđem u vodu. Dok su mi samo stopala u vodi, jato ribica im prilazi i kreće da ih gricka. Možda su jedne od onih što jedu mrtvu kožu ali se ja ipak trzam, nije mi prijatno. Sedam ipak u hemok, voda je ledena. Izležavam se i čitam dok se frekvencija ljudi koji prolaze iza mene postepeno povećava. Neki se jave, neko komentarišu na koga ih podsećam. 
 
-![pre](/assets/tent2.jpeg){:class="img-centered"}
-![pre](/assets/underTheTree.jpeg){:class="img-centered"}
+![pre](/pupsos/assets/tent2.jpeg){:class="img-centered"}
+![pre](/pupsos/assets/underTheTree.jpeg){:class="img-centered"}
 
 
 Ulazim u vodu koja mi deluje toplije. Isplivavam do pola širine jezera i vraćam se. I dalje je hladna. Nakon tog ulaska umor iz prednjeg dela lobanje nestaje i osećam se izvanredno. Ponavljam isplivavanja sa ležanjem u hemoku i sunčanjem između. Jedini sam koji pliva u jezeru. 
@@ -37,11 +37,11 @@ Proveravam vreme i shvatam da sam tu skoro 4 sata. Ožedneh. Bliže je nazad, al
 Ne uklapam se u društvo, pa mi je i lakše da se izopštim u svojoj glavi. Neću detaljisati sa opisom prirode i šetališta. Moram samo da istaknem  da je širina levog drveta sa slike najmanje 3,5 m i dodajem stopalo za srazmeru lišća. Prolazeći i pretičući ljude koji su ranije komentarisali moju malu uvalu javlja mi se neki stranac koji ide sam u meni suprotnom smeru. Od svih ljudi, on se javlja meni. Shvatam da je brat.✌🏽
 
 
-![pre](/assets/1.jpeg){:class="img-centered"}
-![pre](/assets/2.jpeg){:class="img-centered"}
-![pre](/assets/3.jpeg){:class="img-centered"}
-![pre](/assets/4.jpeg){:class="img-centered"}
-![pre](/assets/5.jpeg){:class="img-centered"}
+![pre](/pupsos/assets/1.jpeg){:class="img-centered"}
+![pre](/pupsos/assets/2.jpeg){:class="img-centered"}
+![pre](/pupsos/assets/3.jpeg){:class="img-centered"}
+![pre](/pupsos/assets/4.jpeg){:class="img-centered"}
+![pre](/pupsos/assets/5.jpeg){:class="img-centered"}
 
 Vraćam se do kampa koji je trenutno jedan ogroman parking i mesto izgleda kao da će vašar. Napajam se izvorske vode i odlazim u restoran na kafu. Kara banana, ima samo nes. Pitam konobara za šifru za wifi pošto mi je slab signal na šta on odgovara da je isti i njima i da ga koriste samo za posao da ne bi pukao sistem.
 
@@ -65,7 +65,7 @@ Stuštivši se do mosta preko Tare, inače samog ulaza na Biogradsku goru, koči
 
 Vozim lagano uz kanjon Tare i blenem u okolne prizore kao što telad blenu u mene. Mu!  Okrenem se da uhvatim propušteni vrh i shvatam da definitivno idem na Komove. Video sam znak za restoran RAJ, ali stajem u restoran Dobre Vode koji mi je prvi na putu. Kasni ručak mi postajte navika. Sve što ću reći je, izvrsni ribić! Nisam stručnjak, ali sam oduševljen!
 
-![pre](/assets/6.jpeg){:class="img-centered"}
+![pre](/pupsos/assets/6.jpeg){:class="img-centered"}
 
 Cela današnja deonica je kratka, lagana i u idealnim klimatskim uslovima. Likvid d'n'b mu daje posebnu draž. Prolazim restoran RAJ ispred koga je gungula i koji vrvi od naroda i besnih kola i zaista deluje kvalitetno. Sve je kako treba da bude.
 

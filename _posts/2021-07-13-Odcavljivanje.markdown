@@ -5,7 +5,7 @@ date:   2021-07-13 09:39:57 +0200
 categories: blog
 ---
 
-![pre](/assets/prvi.jpeg){:class="img-centered"}
+![pre](/pupsos/assets/prvi.jpeg){:class="img-centered"}
 
 Odmor i sloboda su me iznenadili kako nisam očekivao i posledica toga je odlaganje. Nesigurnost, premišljanje i želja za komforom su se uvukli pod kožu i prelamao sam se da ipak idem kolima. Rekao sam sebi da sam mala cava i da od misli nema ništa, samo dela se računaju. Ustao sam u ponedeljak ujutru i rešio da krenem. Pakovanje je naravno potrajalo.
 
@@ -29,7 +29,7 @@ Razgovor je trajao neverovatno dugo, a opet prekratko. Dostizao je dubine i inti
 
 Razmenili smo brojeve i dao sam joj mail da bi mi poslala knjigu. Pozdravili smo se i izašla je u Užicu. Oraspoložen i opijen nastavljam put sa novom energijom i kosmičkom potvrdom da je sve kako treba da bude.
 
-![pozer](/assets/latja.17.52.jpeg){:class="img-centered"}
+![pozer](/pupsos/assets/latja.17.52.jpeg){:class="img-centered"}
 
 Stanica Štrpci, deka i bucmasti unuk čekaju voz. Klinac posmatra sva vrata i mali broj ljudi koji izlaze (ispraznilo se do Užica), odjednom kez i pun sprint ka zadnjem delu kompozicije i nestaje mi iz vidika. Pokušavam da se setim kada sam ja čekao nekog ili kada je neko čekao mene. Žurili smo u samostalnost i slobodu i zaboravili predivan osećaj dočekivanja drage osobe. Možemo mi sami.
 
