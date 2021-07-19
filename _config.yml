@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   including designing, developing, implementing, and executing test plans, test scenarios, 
   and test cases for several internal applications.
   Participated in developing and supporting product integration in more than 100 releases.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/pupsos" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
