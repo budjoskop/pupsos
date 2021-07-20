@@ -8,6 +8,10 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+html, body {
+  width: 100%;
+  // overflow: hidden;
+}
 
 
 /**
@@ -26,7 +30,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  
+  position: relative;  
 }
 
 
@@ -176,10 +180,10 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  margin-right: auto;
-  margin-left: auto;
+  // max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  // max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  // margin-right: auto;
+  // margin-left: auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
   @extend %clearfix;
@@ -192,6 +196,14 @@ pre {
   }
 }
 
+.home {
+
+  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+
+}
 
 
 /**

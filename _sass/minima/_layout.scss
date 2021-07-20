@@ -134,12 +134,18 @@ footer {
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: whitesmoke;
-  margin-left: -$spacing-unit / 2;
-  @extend %clearfix;
+  // margin-left: -$spacing-unit / 2;
+  // @extend %clearfix;
+  display: flex;
+  flex-direction: row;
+  @include media-query($on-laptop) {
+    flex-direction: column;
+  }
+
 }
 
 .footer-col {
-  float: left;
+  // float: left;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
 }
@@ -224,12 +230,28 @@ footer {
   @include relative-font-size(1.5);
 }
 
-.background-image {
-  opacity: 0.2;
-  position: absolute;
-  padding: 0 0;
-  z-index: -100;
+// .home-class {
+//   background-image: url(/pupsos/assets/bajs.jpg);
+//   background-size: cover;
+// }
+
+.home-class {
+  position: relative; 
+  width: 100%;
+  
 }
+
+.home-class::before {
+  background-image: url(/pupsos/assets/bajs.jpg);
+  opacity: 0.3;
+  background-size: cover;
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
 
 
 /**
