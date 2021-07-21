@@ -15,7 +15,7 @@ layout: default
 
   {{ content }}
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ "Chapters" | default: "Chapters" }}</h2>
+    <h2 class="post-list-heading">{{ "Poglavlja" | default: "Poglavlja" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -27,7 +27,7 @@ layout: default
           </a>
         </h3>
         <h4>
-          <p>{{post.excerpt}}</p>
+          <p>{{post.excerpt | truncatewords: 15, "..." }}</p>
         </h4>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
